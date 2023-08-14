@@ -1,0 +1,26 @@
+<annotation>
+	<folder>collectedimages</folder>
+	<filename>thanks.f8cf1e4b-24b0-11ee-ab8f-8fc91141d5da.jpg</filename>
+	<path>E:\Modules\Modules\Project\Sign-Language-Reserach\RealTimeObjectDetection\Tensorflow\workspace\images\collectedimages\thanks.f8cf1e4b-24b0-11ee-ab8f-8fc91141d5da.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>480</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Thank You</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>197</xmin>
+			<ymin>310</ymin>
+			<xmax>610</xmax>
+			<ymax>480</ymax>
+		</bndbox>
+	</object>
+</annotation>

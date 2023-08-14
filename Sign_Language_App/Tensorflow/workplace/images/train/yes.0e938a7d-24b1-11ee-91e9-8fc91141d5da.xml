@@ -1,0 +1,26 @@
+<annotation>
+	<folder>collectedimages</folder>
+	<filename>yes.0e938a7d-24b1-11ee-91e9-8fc91141d5da.jpg</filename>
+	<path>E:\Modules\Modules\Project\Sign-Language-Reserach\RealTimeObjectDetection\Tensorflow\workspace\images\collectedimages\yes.0e938a7d-24b1-11ee-91e9-8fc91141d5da.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>480</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Yes</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>158</xmin>
+			<ymin>194</ymin>
+			<xmax>356</xmax>
+			<ymax>394</ymax>
+		</bndbox>
+	</object>
+</annotation>
